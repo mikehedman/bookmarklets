@@ -16,3 +16,5 @@ javascript:(function()%7Bconst%20destinationHash%20%3D%20window.getSelection().t
 2. Expand the list of commits
 3. Highlight the commit hash (eg. 70b435f) of the last point you have reviewed
 4. Click the "Incremental PR" bookmark in your browser's bookmark bar
+
+Note: The window that pops up is NOT part of the PR, so you can’t leave comments in this window.
